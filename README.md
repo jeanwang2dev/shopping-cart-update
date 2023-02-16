@@ -2,7 +2,7 @@
 
 This is an online-shopping website base on a WCC course. This project is built using MEAN Stack, AJAX and Bootstrap3.
 
-Project Online demo is at [https://shoppingcart.temptesting.com/user/](https://shoppingcart.temptesting.com/)
+Project Online demo is at [https://shoppingcart.temptesting.com/](https://shoppingcart.temptesting.com/user)
 
 You can Re-Create the Project on Digital Ocean
 
